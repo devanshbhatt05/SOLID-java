@@ -35,7 +35,7 @@ public class AreaCalculator {
         return shape.area();
     }
 }
-public class Main {
+public class test {
     public static void main(String[] args) {
         Rectangle rectangle = new Rectangle(5, 10);
         Circle circle = new Circle(7);
